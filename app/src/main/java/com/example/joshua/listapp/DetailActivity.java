@@ -1,5 +1,6 @@
 package com.example.joshua.listapp;
 //change
+//second change
 import android.content.Intent;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
