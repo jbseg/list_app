@@ -27,7 +27,7 @@ public class DetailActivity extends AppCompatActivity {
             scaleImg(img, pic);
         }
     }
-
+//4th change but in a different area
     private int getImg(int index){
         switch(index){
             case 0: return R.drawable.peaches;
